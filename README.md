@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br><strong>Hi there 👋</strong>
 <div style="font-size:50px;color:blue">
 	
-<p >I am currently studying <b>Electrical Engineering</b> at SVNIT, Surat adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. I spend a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. And also trying my best to follow my own advice. I lives in Vapi, India. 
+<p >I am currently studying <b>Electrical Engineering</b> at SVNIT, Surat adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. I spend a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. And also trying my best to follow my own advice.
 </p>
 	</div>
 <br>
