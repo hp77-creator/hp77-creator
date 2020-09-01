@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-<img src="https://github.com/hp77-creator/hp77-creator.github.io/blob/master/IMG20200812121340.jpg" alt="Himanshu Pandey" align="left" width="100" height="200" style="border-radius:50%;">
 
-
+<img style="height:auto;" alt="" width="120" height="200" class="avatar avatar-user width-full border bg-white" src="https://github.com/hp77-creator/hp77-creator.github.io/blob/master/IMG20200812121340.jpg">
+<br><strong>Hi there 👋</strong>
 <div style="font-size:50px;color:blue">
 	
 <p >I am currently studying <b>Electrical Engineering</b> at SVNIT, Surat adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. I spend a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. And also trying my best to follow my own advice. I lives in Vapi, India. 
