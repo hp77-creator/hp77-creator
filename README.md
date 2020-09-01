@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hp77-creator/hp77-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,19 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/hp77-creator/hp77-creator.github.io/blob/master/IMG20200812121340.jpg" alt="Himanshu Pandey" align="left" width="100" height="auto" style="border-radius:50%;">
+### Hi there 👋
+<img src="https://github.com/hp77-creator/hp77-creator.github.io/blob/master/IMG20200812121340.jpg" alt="Himanshu Pandey" align="left" width="100" height="200" style="border-radius:50%;">
 
 
-<p>I am currently studying <b>Electrical Engineering</b> at SVNIT, Surat adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. I spend a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. And also trying my best to follow my own advice. I lives in Vapi, India. 
+<div style="font-size:50px;color:blue">
+	
+<p >I am currently studying <b>Electrical Engineering</b> at SVNIT, Surat adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. I spend a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. And also trying my best to follow my own advice. I lives in Vapi, India. 
 </p>
+	</div>
+<br>
+<br>
+<br>
 <br>
 	<p>Follow me on Social Media 👇</p>
 <br>
 <p align="center">
 	<a href="https://github.com/hp77-creator"><img src="https://img.shields.io/github/followers/hp77-creator?style=social"alt="GitHub"></a>
 	<a href="https://twitter.com/tweetsbyhp77"><img src="https://img.shields.io/twitter/follow/tweetsbyhp77?style=social" alt="Twitter"></a>
-	<a  herf="https://www.instagram.com/its_hp77"><img src="https://img.shields.io/badge/-reddy-blue?style=social&logo=Instagram&"></a>
-	<a  herf="https://www.linkedin.com/in/hp77/"><img src="https://img.shields.io/badge/-Reddy-blue?style=social&logo=Linkedin&"></a>
+	<a  herf="https://www.instagram.com/its_hp77"><img src="https://img.shields.io/badge/-its_hp77-blue?style=social&logo=Instagram&"></a>
+	<a  herf="https://www.linkedin.com/in/hp77/"><img src="https://img.shields.io/badge/-hp77-blue?style=social&logo=Linkedin&"></a>
 </p>
 <div align="justify">
 <p>Follow me on following platforms👇</p>
