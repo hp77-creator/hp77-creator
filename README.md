@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on React
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hp77-creator)](https://github.com/anuraghazra/github-readme-stats)
+
 [![hp77's github stats](https://github-readme-stats.vercel.app/api?username=hp77-creator&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
