@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 <br><strong>Hi there 👋</strong>
 <div style="font-size:50px;color:blue">
 	
-<p >I am currently studying <b>Electrical Engineering</b> at SVNIT, Surat adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Possessing extensive analytical skills, strong attention to detail, and a significant ability to work in team environments. I spend a lot of time telling people that the formula for success and happiness is to lift each other up and share what we learn. And also trying my best to follow my own advice.
-</p>
+- 🔭 I’m currently working on Prediction Model
+- 🌱 I’m currently learning developing UIs with React
+- 👯 I’m looking to collaborate on anything which involves ML or developing web apps.
+- 🤔 I’m looking for help with new issues to work on
+- 💬 Ask me about C++, Python, Machine Learning, Django.
+- 📫 How to reach me: Please see at the bottom of this section.
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I like myself addressed as hp
 	</div>
 <br>
 <br>
