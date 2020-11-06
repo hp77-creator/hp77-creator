@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img style="height:auto;" alt="" width="120" height="200" class="avatar avatar-user width-full border bg-white" src="https://github.com/hp77-creator/hp77-creator.github.io/blob/master/profileImg/hp77.jpg">
 <br><strong>Hi there 👋</strong>
 <div style="font-size:50px;color:blue">
 	
