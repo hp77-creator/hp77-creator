@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <br><strong>Hi there 👋</strong>
 <div style="font-size:50px;color:blue">
 	
-- 🔭 I’m currently working on Prediction Model
-- 🌱 I’m currently learning developing UIs with React
+- 🔭 I’m currently working on Emotion Recognition Model. (Star it here)[https://github.com/arjunparmar/TUNEX]
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on anything which involves ML or developing web apps.
 - 🤔 I’m looking for help with new issues to work on
 - 💬 Ask me about C++, Python, Machine Learning, Django.
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="https://github.com/hp77-creator"><img src="https://img.shields.io/github/followers/hp77-creator?style=social"alt="GitHub"></a>
 	<a href="https://twitter.com/tweetsbyhp77"><img src="https://img.shields.io/twitter/follow/tweetsbyhp77?style=social" alt="Twitter"></a>
-	<a  herf="https://www.instagram.com/its_hp77"><img src="https://img.shields.io/badge/-its_hp77-blue?style=social&logo=Instagram&"></a>
 	<a  herf="https://www.linkedin.com/in/hp77/"><img src="https://img.shields.io/badge/-hp77-blue?style=social&logo=Linkedin&"></a>
 </p>
 <div align="justify">
