@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br><strong>Hi there 👋</strong>
 <div style="font-size:50px;color:blue">
 	
-- 🔭 I’m currently working on Emotion Recognition Model. (Star it here)[https://github.com/arjunparmar/TUNEX]
+- 🔭 I’m currently working on Emotion Recognition Model. [Star it here](https://github.com/arjunparmar/TUNEX)
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on anything which involves ML or developing web apps.
 - 🤔 I’m looking for help with new issues to work on
