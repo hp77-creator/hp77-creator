@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 </div>
 
 
+![GitHub metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hp77-creator&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
