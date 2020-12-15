@@ -1,6 +1,6 @@
 
 
-![GitHub metrics](https://github.com/hp77-creator/hp77-creator/blob/master/github-metrics.svg)
+![GitHub metrics](https://metrics.lecoq.io/hp77-creator?isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year)
 
 
 <p>Follow me on Social Media 👇</p>
@@ -18,9 +18,3 @@
 
 </p>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hp77-creator&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![hp77's github stats](https://github-readme-stats.vercel.app/api?username=hp77-creator&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
