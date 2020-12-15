@@ -1,6 +1,6 @@
 
 
-![GitHub metrics](https://metrics.lecoq.io/hp77-creator?isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year)
+![GitHub metrics](https://metrics.lecoq.io/hp77-creator?template=terminal&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year)
 
 
 <p>Follow me on Social Media 👇</p>
