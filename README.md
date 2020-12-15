@@ -13,8 +13,8 @@
 <div align="justify">
 <p>Follow me on following platforms👇</p>
 <p align="center">
-	<a herf="https://www.kaggle.com/himanshuashp77"><img src="https://img.shields.io/badge/hp77-kaggle-blue"></a>
-	<a herf="https://github.com/hp77-creator"><img src="https://img.shields.io/github/followers/hp77-creator?style=social"</a>	
+	<a href="https://www.kaggle.com/himanshuashp77"><img src="https://img.shields.io/badge/hp77-kaggle-blue"></a>
+	<a href="https://github.com/hp77-creator"><img src="https://img.shields.io/github/followers/hp77-creator?style=social"</a>	
 
 </p>
 </div>
