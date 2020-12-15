@@ -1,35 +1,9 @@
 
-<!--
-**hp77-creator/hp77-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub metrics](https://github.com/hp77-creator/hp77-creator/blob/master/github-metrics.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br><strong>Hi there 👋</strong>
-<div style="font-size:50px;color:blue">
-	
-- 🔭 I’m currently working on Emotion Recognition Model. [Star it here](https://github.com/arjunparmar/TUNEX)
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on anything which involves ML or developing web apps.
-- 🤔 I’m looking for help with new issues to work on
-- 💬 Ask me about C++, Python, Machine Learning, Django.
-- 📫 How to reach me: Please see at the bottom of this section.
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: I like myself addressed as hp
-	</div>
-<br>
-<br>
-<br>
-<br>
-	<p>Follow me on Social Media 👇</p>
+
+<p>Follow me on Social Media 👇</p>
 <br>
 <p align="center">
 	<a href="https://github.com/hp77-creator"><img src="https://img.shields.io/github/followers/hp77-creator?style=social"alt="GitHub"></a>
@@ -45,12 +19,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 
-
-![GitHub metrics](https://github.com/hp77-creator/hp77-creator/blob/master/github-metrics.svg)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hp77-creator&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hp77-creator&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
