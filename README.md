@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 
-![GitHub metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![GitHub metrics](https://github.com/hp77-creator/hp77-creator/blob/master/github-metrics.svg)
 
 
 
