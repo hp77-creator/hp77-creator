@@ -1,6 +1,4 @@
-
-
-![GitHub metrics](https://metrics.lecoq.io/hp77-creator?template=terminal&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year)
+![GitHub metrics](https://metrics.lecoq.io/hp77-creator?languages=1&followup=1&isocalendar=1&gists=1&isocalendar.duration=full-year)
 
 
 <p>Talk to me on Social Media</p>:point_right:
