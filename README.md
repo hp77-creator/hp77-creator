@@ -1,3 +1,5 @@
+<p align="center">
+	
 ![GitHub metrics](https://metrics.lecoq.io/hp77-creator?languages=1&followup=1&isocalendar=1&gists=1&isocalendar.duration=full-year)
 
 
@@ -14,4 +16,5 @@
 	<a href="https://github.com/hp77-creator"><img src="https://img.shields.io/github/followers/hp77-creator?style=social"</a>	
 
 </p>
-</div>
+
+</p>
