@@ -4,5 +4,7 @@
 
 
 <p align="center">
-	Want to know more visit my <a href="https://hp77-creator.github.io">Portfolio</a>
+	Care to know more, Visit hp's <a href="https://hp77-creator.github.io">Portfolio Site</a>
+	<br>
+	Sincerely,<i> Tom & Jerry</i>
 </p>
