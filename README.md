@@ -1,6 +1,14 @@
-<p align="center">
-	<a href="https://www.youtube.com/watch?v=2ocykBzWDiM"><img src="guitar.png"></a>
-</p>
+:wink:
+## Portfolio
+
+https://user-images.githubusercontent.com/24816726/116963835-926cb800-acc7-11eb-9bbe-4c297639d185.mp4
+
+#### 😆
+Rick Roll Counter 👉
+![](https://komarev.com/ghpvc/?username=hp77-creator) 
+
+
+
 
 
 <p align="center">
