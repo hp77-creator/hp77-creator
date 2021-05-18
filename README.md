@@ -13,7 +13,7 @@ Feel free to ping me for contributions or team-up. Actively looking for those.
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: Python, C++, Java 
 - 📫 How to reach me: [@tweetsbyhp77](https://twitter.com/tweetsbyhp77)
-- ⚡ Fun fact: I love chess 💙
+- ⚡ Fun fact: I love chess and Post Malone is one of my fav singers.💙
 
 <!--
 **lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
