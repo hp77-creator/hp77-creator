@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Himanshu Pandey</h3>
 <p align="center">
-  <a href="https://www.hp77-creator.github.io">Website</a> •
+  <a href="https://hp77-creator.github.io/">Website</a> •
   <a href="https://twitter.com/tweetsbyhp77">Twitter</a>
 </p>
 
