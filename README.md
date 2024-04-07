@@ -1,19 +1,16 @@
 <h3 align="center">👋 Hi there! I'm Himanshu Pandey</h3>
 <p align="center">
   <a href="https://hp77-creator.github.io/">Website</a> •
-  <a href="https://twitter.com/tweetsbyhp77">Twitter</a>
+  <a href="https://twitter.com/theboycalledhp">Twitter</a>
 </p>
 
 ---
-✨ I'm an aspiring engineer, currently learning about backend technologies and CI/CD. Trying my luck at Machine Learning and Deep learning, Giving competitions on kaggle and codeforces from time to time. 
-
-Feel free to ping me for contributions or team-up. Actively looking for those.
+SDET @ Piramal Finance. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
 
 
 - 😄 My Pronouns: He/Him   
-- 💬 Ask me about: Python, C++, ReactJS(in progress)
-- 📫 How to reach me: 
-    -  🐦 - [@theboycalledhp](https://twitter.com/theboycalledhp)
+- 💬 Ask me about: Python, C++, Java
+- 📫 How to reach me:
     -  📧 - [gmail](himanshu.dn.pandey@gmail.com)
 <!--- ⚡ Fun fact: I love chess and Post Malone is one of my fav singers.💙
 
