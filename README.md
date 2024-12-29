@@ -8,7 +8,6 @@
 SDET @ Piramal Finance. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
 
 
-- 😄 My Pronouns: He/Him   
 - 💬 Ask me about: Python, C++, Java
 - 📫 How to reach me:
     -  📧 - [gmail](himanshu.dn.pandey@gmail.com)
