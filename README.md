@@ -5,7 +5,7 @@
 </p>
 
 ---
-SDET @ Piramal Finance. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
+SDE @ Piramal Finance. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
 
 
 - 💬 Ask me about: Python, C++, Java
