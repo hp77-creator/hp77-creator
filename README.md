@@ -5,7 +5,7 @@
 </p>
 
 ---
-SDE(T) @ Piramal Finance. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
+SDE-1 @ Piramal Finance. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
 
 
 - 💬 Ask me about: Python, C++, Java, Golang, Javascript
