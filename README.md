@@ -5,7 +5,7 @@
 </p>
 
 ---
-Software Engineer @ Chargebee. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
+Software Engineer. Exploring the world of operating-systems/compilers in my free time with bouts of screen time to Champions League/Premiere League/IPL/NBA.
 
 I have been a **Google Summer of Code** mentee with **eunomia-bpf**(2024) and **MariaDB Foundation**(2025).
 
